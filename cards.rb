@@ -1,6 +1,6 @@
 require "highline/import"
 
-class Cards
+class CardGame
 
   def start
       spacer
